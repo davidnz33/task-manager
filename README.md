@@ -26,3 +26,6 @@ Personal Task Manager — Laravel
     7. Run `php artisan migrate`
     8. Run `php artisan serve`
     9. Open http://127.0.0.1:8000
+
+<img width="1920" height="1080" alt="5f9fb407-ecfa-48ef-8526-34a4e91c69f8" src="https://github.com/user-attachments/assets/fbc30286-8e16-40ff-a410-5f3785aad677" />
+
